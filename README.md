@@ -7,6 +7,8 @@
 
 This is a family recipe that somehow my Jewish, New Yorker family holds very dear. A true piece of American assimilation that's become a huge part of our traditions and so I want to share it. We cook this for thanksgiving but it's too good to only eat once a year. It's also super easy to make and doing it with frozen pie crusts doesn't ruin anything. 
 
+Also if you have alterations or suggestions please post them as issues or submit a PR!
+
 ## Recipe 
 
 2 frozen pie shells (can make your own too)
