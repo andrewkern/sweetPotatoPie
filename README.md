@@ -1,5 +1,13 @@
 # sweetPotatoPie
-<ins>Gail Garlick's Sweet Potato Pie Recipe</ins>
+
+
+# Gail Garlick's Sweet Potato Pie Recipe
+
+![IMG_7691](https://github.com/user-attachments/assets/fb8459ea-b1d1-4801-94a1-53b35e47374b)
+
+This is a family recipe that somehow my Jewish, New Yorker family holds very dear. A true piece of American assimilation that's become a huge part of our traditions and so I want to share it. We cook this for thanksgiving but it's too good to only eat once a year. It's also super easy to make and doing it with frozen pie crusts doesn't ruin anything. 
+
+## Recipe 
 
 2 frozen pie shells (can make your own too)
 3 to 4 large yams
