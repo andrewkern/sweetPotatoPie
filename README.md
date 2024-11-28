@@ -32,7 +32,7 @@ Also if you have alterations or suggestions please post them as issues or submit
 
 5. Slowly add milk and eggs (beaten first). 
 
-6. Pour in pie shell and bake at 350 for 75 min (check at 45min to 1hr)  or until top is slightly brown and cracks. Use cake pin to make sure when you stick it nothing sticks to pin.
+6. Pour in pie shells and bake at 350 for 75 min (check at 45min to 1hr)  or until top is slightly brown and cracks. Use cake pin to make sure when you stick it nothing sticks to pin.
 
 7. Happy thanksgiving! 🦃 🦃 🦃
 
