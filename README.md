@@ -11,16 +11,16 @@ Also if you have alterations or suggestions please post them as issues or submit
 
 ## Recipe 
 
-2 frozen pie shells (can make your own too)
-3 to 4 large yams
-3 eggs
-1/2 cup milk
-1/2 stick butter
-1/4 t. nutmeg
-1/8 t. cinnamon
-1/8 t. white pepper
-1 teaspoon vanilla
-1/2 cup white sugar
+- 2 frozen pie shells (can make your own too)
+- 3 to 4 large yams
+- 3 eggs
+- 1/2 cup milk
+- 1/2 stick butter
+- 1/4 tsp nutmeg
+- 1/8 tsp cinnamon
+- 1/8 tsp white pepper
+- 1 teaspoon vanilla
+- 1/2 cup white sugar
 
 1. Preheat oven to 350F
 
